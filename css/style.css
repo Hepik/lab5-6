@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: rgba(55,100,255,0.2);
+	font-family: Arial;
+	font-size: 18px;
+	line-height: 1.5;
+	color: #333;
+}
+h1 {
+	font-weight: 900;
+	color: #DB7093;
+}
+h2 {
+	font-size: 40px;
+	color: #8A2BE2;
+	font-weight: 400;
+}
+strong {
+	font-size: 150%;
+}
+.cursive {
+	font-style: italic;
+}			
+.rose {
+	color: Fuchsia;
+}
+.round {
+	border-radius: 100%;
+	border-color: #fff;
+	border-width: 10px;
+	border-style: dotted;
+	box-shadow: 0 0 40px 10px rgba(0,0,0,0.3);
+}
+#p1 {
+	color: chocolate;
+}

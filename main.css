@@ -1,0 +1,173 @@
+header {
+  width: 100%;
+  color: #693D3D;
+}
+
+body {
+  padding-right: 20px;
+  padding-left: 20px;
+  height: 100vh;
+  background-color: #693D3D;
+
+}
+.wrapper {
+  padding-bottom: 200px;
+}
+
+.contain {
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.item {
+  align-items: center;
+  background-color: #A43820;
+  color: white;
+  display: flex;
+  height: 300px;
+  justify-content: center;
+}
+
+.item img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#gallery {
+  position: relative;
+  margin-top: 45px !important;
+}
+
+#galleryTiles {
+  margin-top: 55px;
+  padding-bottom: 100px;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(52, 20, 12);
+}
+
+.box1 {
+  background-color: rgb(107, 134, 72);
+  border: 3px solid black;
+}
+.box2 {
+  background-color: rgb(72, 134, 96);
+  border: 3px solid black;
+}
+.box3 {
+  background-color: rgb(42, 90, 61);
+  border: 3px solid black;
+}
+.box img {
+  width: 100%;
+}
+.box {
+  padding-bottom: 20px;
+}
+
+.table {
+  background-color: rgb(187, 171, 171);
+  margin-top: 25px;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.accordion {
+  margin-top: 35px;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.button {
+  margin-top: 35px;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card {
+  margin-top: 35px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.slide {
+  width: 50%;
+  margin-top: 35px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.collapsemain {
+  margin-top: 35px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nav-tabs {
+  margin-top: 35px;
+  background-color: whitesmoke;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tab-content {
+  background-color: grey;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+.progress {
+  width: 70%;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.spinner {
+  width: 70%;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imgtext {
+  background-color: whitesmoke;
+  border: 5px solid black;
+  margin-top: 20px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.col img {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+}
+.video {
+  margin-top: 25px;
+  width: 600px;
+  height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.petro img {
+  margin-top: 5px;
+  height: 100px;
+  width: 100px;
+}
+.petro {
+  background-color: #A43820;
+  height: 220px;
+}
+.icons {
+  height: 50px;
+  width: 50px;
+  margin-left: 250px;
+  color: blue;
+}
+.videoo {
+  height: 300px;
+}
